@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Even_Odd {;
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
+        int n=sc.nextInt(); // we use the long variable where digit is very long
        /* if(n%2==0 && n>0  ){
             System.out.println("Even Number");
         }
