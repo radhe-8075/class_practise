@@ -12,6 +12,6 @@ public class Vowels_Count {
             if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')
                 v++;
         }
-        System.out.println();
+        System.out.println(v);
     }
 }
