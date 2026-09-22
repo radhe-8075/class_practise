@@ -1,3 +1,5 @@
+package Astra_1;
+
 import java.util.Scanner;
 public class primenumber {
     static void main(String[] args) {
